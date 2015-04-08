@@ -1,0 +1,14 @@
+{
+  "global": {
+    "parseVersion": "1.4.0"
+  },
+  "applications": {
+    "ThemeSong": {
+      "applicationId": "QY6kaynAdgYpgApr1uvj2UBi4IiCvFsIrCejLmpr",
+      "masterKey": "fhWLYBHuWPydZ8fVjL2bFmdCprIKGxSeTd0nFMrH"
+    },
+    "_default": {
+      "link": "ThemeSong"
+    }
+  }
+}
